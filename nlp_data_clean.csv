@@ -1,0 +1,977 @@
+,x,y
+0,go straight down the road,3
+1,proceed in a straight line,3
+2,move forward without turning,3
+3,continue straight ahead on this path,3
+4,head directly down the street,3
+5,stay on the straight and narrow,3
+6,travel straight without any deviations,3
+7,follow the route in a straight line,3
+8,maintain your course straight ahead,3
+9,move as far as you can see,3
+10,proceed straight along the way,3
+11,move on the direct path,3
+12,keep on the direct path,3
+13,continue forward without making any turns,3
+14,head straight toward your destination,3
+15,stay on the unswerving route,3
+16,move straight along the trail,3
+17,follow the road without turning left or right,3
+18,go ahead without veering off course,3
+19,move on the straight and clear route,3
+20,continue in a straight trajectory,3
+21,head straight down the avenue,3
+22,stay true to the straight path,3
+23,move directly towards your goal,3
+24,move on the straight route,3
+25,proceed straightforwardly,3
+26,go straight on this thoroughfare,3
+27,continue along the straight road,3
+28,head straight down the boulevard,3
+29,follow the straight line on the map,3
+30,move in a straight line without deviation,3
+31,stay on the direct course,3
+32,go straight down the corridor,3
+33,proceed straight through the intersection,3
+34,move straight ahead without hesitation,3
+35,keep to the straight and clear road,3
+36,follow the unbroken line ahead,3
+37,maintain your course without deviations,3
+38,move straight with confidence,3
+39,continue in a straight line without interruptions,3
+40,head straight through the city,3
+41,stay on the straightforward route,3
+42,move directly towards the goal,3
+43,go straight past the landmarks,3
+44,proceed straight through the urban landscape,3
+45,move forward without turning aside,3
+46,follow the straight trail ahead,3
+47,head straight across the bridge,3
+48,stay on the clear path without turning,3
+49,move in a straight line through the park,3
+50,continue in a straight trajectory,3
+51,go straight past the crossroads,3
+52,maintain a direct course,3
+53,head straight through the neighborhood,3
+54,stay true to the straight road,3
+55,move directly along the established route,3
+56,follow the unswerving path,3
+57,go ahead without veering off the straight line,3
+58,keep on the undeviating course,3
+59,proceed straight along the riverbank,3
+60,move directly through the woods,3
+61,continue straight without distractions,3
+62,head straight past the landmarks,3
+63,stay on the direct route without deviation,3
+64,move straightforwardly through the countryside,3
+65,go straight towards the mountain,3
+66,keep on the straight and narrow path,3
+67,follow the straight line on the horizon,3
+68,head directly to the coastline,3
+69,stay on the straight highway,3
+70,move in a straight line through the desert,3
+71,continue straight across the plains,3
+72,go ahead without turning in any direction,3
+73,keep to the unswerving trail,3
+74,proceed straight along the beach,3
+75,head straight through the canyon,3
+76,stay true to the straight street,3
+77,move directly through the valley,3
+78,go straight under the clear sky,3
+79,keep on the straight course through the forest,3
+80,follow the unbroken line on the map,3
+81,maintain your course straight ahead,3
+82,move directly along the river,3
+83,continue straight across the meadow,3
+84,head straight through the wilderness,3
+85,stay on the direct path to your destination,3
+86,go straight along the seashore,3
+87,proceed straightforwardly through the hills,3
+88,move forward without detours,3
+89,follow the straight track through the city,3
+90,head straight past the fields,3
+91,stay on the straight road through the countryside,3
+92,move directly along the railway tracks,3
+93,go straight to your final destination,3
+94,retreat,4
+95,move rearward,4
+96,go in reverse,4
+97,backtrack,4
+98,reverse your direction,4
+99,withdraw,4
+100,step back,4
+101,regress,4
+102,move in a backward motion,4
+103,take a step back,4
+104,go backward,4
+105,shift to the rear,4
+106,reverse course,4
+107,retreat backward,4
+108,move away from the front,4
+109,move in the opposite direction,4
+110,step in reverse,4
+111,withdrawal,4
+112,move towards the rear,4
+113,back away,4
+114,go in a backward trajectory,4
+115,move back from your current position,4
+116,go rearward,4
+117,fall back,4
+118,retrace your steps,4
+119,move towards the back,4
+120,draw back,4
+121,recede,4
+122,take a backward step,4
+123,move back along the path,4
+124,step away from the forward direction,4
+125,reverse your movement,4
+126,retreat from the current position,4
+127,go back,4
+128,shift to the back,4
+129,move to the rear,4
+130,pull back,4
+131,move in the opposite direction from the front,4
+132,retreat to a previous location,4
+133,step in the opposite direction,4
+134,move in a rearward motion,4
+135,withdraw from the front,4
+136,fall behind,4
+137,take steps backward,4
+138,go in the reverse direction,4
+139,retreat from the current point,4
+140,step back from the current position,4
+141,move toward the rear,4
+142,shift away from the front,4
+143,go in a backward trajectory,4
+144,withdraw yourself,4
+145,take a step away from the forward direction,4
+146,move in the opposite path,4
+147,retreat along the path,4
+148,step back from the current location,4
+149,go back from the current point,4
+150,move in a rearward direction,4
+151,draw away from the front,4
+152,step backward on the path,4
+153,retreat to a preceding point,4
+154,move away from the forward trajectory,4
+155,go in the opposite way,4
+156,retreat to a previous spot,4
+157,move in the direction opposite to forward,4
+158,fall back from the current position,4
+159,withdraw to a prior location,4
+160,take steps in a backward motion,4
+161,move in the reverse trajectory,4
+162,step back to a previous spot,4
+163,go away from the front,4
+164,retreat from the current spot,4
+165,move in a rearward trajectory,4
+166,retreat along the route,4
+167,shift backward from the current location,4
+168,step away from the forward trajectory,4
+169,move in the opposite course,4
+170,withdraw to a preceding point,4
+171,go back from the current place,4
+172,retreat to a former location,4
+173,move in a backward path,4
+174,step back from the present position,4
+175,go in the reverse course,4
+176,move to the rear from the current point,4
+177,retreat from the current spot,4
+178,withdraw to a prior spot,4
+179,take steps in the opposite direction,4
+180,move away from the front direction,4
+181,retreat along the route taken,4
+182,step backward on the path traveled,4
+183,go back to a previous point,4
+184,move in a rearward motion,4
+185,retreat to a former point,4
+186,fall back from the present position,4
+187,withdraw to a preceding spot,4
+188,take steps in the reverse direction,4
+189,move in the opposite way from forward,4
+190,retreat along the course traveled,4
+191,step back to a former spot,4
+192,go away from the forward trajectory,4
+193,move in the reverse path,4
+194,sidestep to the left,5
+195,veer toward the left side,5
+196,glide leftward,5
+197,steer in a leftward direction,5
+198,shift your position to the left,5
+199,move in a leftward motion,5
+200,slide to the left,5
+201,lean to the left,5
+202,adjust your course to the left,5
+203,veer left,5
+204,maneuver towards the left,5
+205,tilt left,5
+206,direct yourself to the left,5
+207,shift horizontally to the left,5
+208,adjust your alignment to the left,5
+209,turn leftward,5
+210,guide your movement to the left,5
+211,head left,5
+212,navigate to the left side,5
+213,offset your position to the left,5
+214,progress towards the left,5
+215,veer off to the left,5
+216,align yourself to the left,5
+217,lean in a leftward direction,5
+218,steer left,5
+219,progress leftward,5
+220,glide towards the left side,5
+221,maneuver left,5
+222,shift laterally to the left,5
+223,adjust your heading to the left,5
+224,tilt in a leftward manner,5
+225,turn in the left direction,5
+226,direct your movement to the left,5
+227,move horizontally to the left,5
+228,slide leftward,5
+229,guide yourself to the left,5
+230,offset to the left side,5
+231,veer your trajectory leftward,5
+232,shift towards the left side,5
+233,lean left,5
+234,adjust your position to the left,5
+235,navigate leftward,5
+236,maneuver in a leftward direction,5
+237,head in a leftward trajectory,5
+238,glide to the left side,5
+239,progress in a leftward motion,5
+240,turn towards the left side,5
+241,steer in a leftward manner,5
+242,move leftward on the path,5
+243,tilt to the left side,5
+244,shift your course to the left,5
+245,slide laterally to the left,5
+246,veer left on your route,5
+247,guide your trajectory to the left side,5
+248,lean in a leftward direction,5
+249,adjust your heading leftward,5
+250,turn in the direction of the left,5
+251,progress in a leftward trajectory,5
+252,maneuver left on the path,5
+253,shift your alignment to the left,5
+254,glide to the left on your course,5
+255,navigate in the leftward direction,5
+256,move in a leftward motion on the path,5
+257,steer toward the left side,5
+258,veer your course leftward,5
+259,adjust your position in a leftward manner,5
+260,lean towards the left side,5
+261,slide towards the left on your route,5
+262,head in a leftward trajectory,5
+263,tilt leftward on your path,5
+264,move to the left side,5
+265,progress in the direction of the left,5
+266,turn left on the route,5
+267,steer your movement to the left,5
+268,glide leftward on the path,5
+269,shift your trajectory to the left side,5
+270,navigate towards the left,5
+271,maneuver in a leftward direction on your course,5
+272,move left on your route,5
+273,veer towards the left side,5
+274,adjust your heading in a leftward manner,5
+275,lean left on the path,5
+276,turn in the leftward direction,5
+277,guide your movement leftward,5
+278,slide left on the route,5
+279,head towards the left side,5
+280,tilt your position to the left,5
+281,progress in a leftward trajectory on the path,5
+282,steer in the direction of the left side,5
+283,shift leftward on your course,5
+284,move in a leftward motion on the route,5
+285,veer towards the left side of the path,5
+286,glide to the left on the route,5
+287,navigate in the direction of the left,5
+288,maneuver leftward on the course,5
+289,turn towards the left side,5
+290,adjust your movement leftward,5
+291,lean left on the route,5
+292,slide to the left side,5
+293,head in a leftward direction on the path,5
+294,slide to the right,6
+295,veer toward the right side,6
+296,glide rightward,6
+297,steer in a rightward direction,6
+298,shift your position to the right,6
+299,move in a rightward motion,6
+300,slide to the right side,6
+301,lean to the right,6
+302,adjust your course to the right,6
+303,veer right,6
+304,maneuver towards the right,6
+305,tilt right,6
+306,direct yourself to the right,6
+307,shift horizontally to the right,6
+308,adjust your alignment to the right,6
+309,turn rightward,6
+310,guide your movement to the right,6
+311,head right,6
+312,navigate to the right side,6
+313,offset your position to the right,6
+314,progress towards the right,6
+315,veer off to the right,6
+316,align yourself to the right,6
+317,lean in a rightward direction,6
+318,steer right,6
+319,progress rightward,6
+320,glide towards the right side,6
+321,maneuver right,6
+322,shift laterally to the right,6
+323,adjust your heading to the right,6
+324,tilt in a rightward manner,6
+325,turn in the right direction,6
+326,direct your movement to the right,6
+327,move horizontally to the right,6
+328,slide rightward,6
+329,guide yourself to the right,6
+330,offset to the right side,6
+331,veer your trajectory rightward,6
+332,shift towards the right side,6
+333,lean right,6
+334,adjust your position to the right,6
+335,navigate rightward,6
+336,maneuver in a rightward direction,6
+337,head in a rightward trajectory,6
+338,glide to the right side,6
+339,progress in a rightward motion,6
+340,turn towards the right side,6
+341,steer in a rightward manner,6
+342,move rightward on the path,6
+343,tilt to the right side,6
+344,shift your course to the right,6
+345,slide laterally to the right,6
+346,veer right on your route,6
+347,guide your trajectory to the right side,6
+348,lean in a rightward direction,6
+349,adjust your heading rightward,6
+350,turn in the right direction,6
+351,progress in a rightward trajectory,6
+352,maneuver right on the path,6
+353,shift your alignment to the right,6
+354,glide to the right on your course,6
+355,navigate in the rightward direction,6
+356,move in a rightward motion on the path,6
+357,steer toward the right side,6
+358,veer your course rightward,6
+359,adjust your position in a rightward manner,6
+360,lean towards the right side,6
+361,slide towards the right on your route,6
+362,head in a rightward trajectory,6
+363,tilt rightward on your path,6
+364,move to the right side,6
+365,progress in the direction of the right,6
+366,turn right on the route,6
+367,steer your movement to the right,6
+368,glide rightward on the path,6
+369,shift your trajectory to the right side,6
+370,navigate towards the right,6
+371,maneuver in a rightward direction on your course,6
+372,move right on your route,6
+373,veer towards the right side,6
+374,adjust your heading in a rightward manner,6
+375,lean right on the path,6
+376,turn in the rightward direction,6
+377,guide your movement to the right,6
+378,slide right on the route,6
+379,head towards the right side,6
+380,tilt your position to the right,6
+381,progress in a rightward trajectory on the path,6
+382,steer in the direction of the right side,6
+383,shift rightward on your course,6
+384,move in a rightward motion on the route,6
+385,veer towards the right side of the path,6
+386,glide to the right on the route,6
+387,navigate in the direction of the right,6
+388,maneuver rightward on the course,6
+389,turn towards the right side,6
+390,adjust your movement rightward,6
+391,lean right on the route,6
+392,slide to the right side,6
+393,head in a rightward direction on the path,6
+394,don't go straight down the road,15
+395,avoid proceeding in a straight line,15
+396,refrain from moving forward without turning,15
+397,don't continue straight ahead on this path,15
+398,avoid heading directly down the street,15
+399,stray from the straight and narrow,15
+400,don't travel straight without any deviations,15
+401,ignore following the route in a straight line,15
+402,veer away from maintaining your course straight ahead,15
+403,don't move as far as you can see,15
+404,avoid proceeding straight along the way,15
+405,don't move on the direct path,15
+406,avoid keeping on the direct path,15
+407,refrain from continuing forward without making any turns,15
+408,don't head straight toward your destination,15
+409,stray from staying on the unswerving route,15
+410,avoid moving straight along the trail,15
+411,don't follow the road without turning left or right,15
+412,veer off from going ahead without deviating off course,15
+413,refrain from moving on the straight and clear route,15
+414,don't continue in a straight trajectory,15
+415,avoid heading straight down the avenue,15
+416,stray from staying true to the straight path,15
+417,avoid moving directly towards your goal,15
+418,refrain from moving on the straight route,15
+419,don't proceed straightforwardly,15
+420,avoid going straight on this thoroughfare,15
+421,refrain from continuing along the straight road,15
+422,don't head straight down the boulevard,15
+423,ignore following the straight line on the map,15
+424,refrain from moving in a straight line without deviation,15
+425,stay off the direct course,15
+426,don't go straight down the corridor,15
+427,avoid proceeding straight through the intersection,15
+428,refrain from moving straight ahead without hesitation,15
+429,don't keep to the straight and clear road,15
+430,stray from following the unbroken line ahead,15
+431,avoid maintaining your course without deviations,15
+432,don't move straight with confidence,15
+433,refrain from continuing in a straight line without interruptions,15
+434,avoid heading straight through the city,15
+435,stay off the straightforward route,15
+436,don't move directly towards the goal,15
+437,avoid going straight past the landmarks,15
+438,refrain from proceeding straight through the urban landscape,15
+439,don't move forward without turning aside,15
+440,stray from following the straight trail ahead,15
+441,avoid heading straight across the bridge,15
+442,refrain from staying on the clear path without turning,15
+443,don't move in a straight line through the park,15
+444,avoid continuing in a straight trajectory,15
+445,refrain from going straight past the crossroads,15
+446,stray from maintaining a direct course,15
+447,avoid heading straight through the neighborhood,15
+448,don't stay true to the straight road,15
+449,refrain from moving directly along the established route,15
+450,avoid following the unswerving path,15
+451,don't go ahead without veering off the straight line,15
+452,stray from keeping on the undeviating course,15
+453,refrain from proceeding straight along the riverbank,15
+454,don't move directly through the woods,15
+455,avoid continuing straight without distractions,15
+456,refrain from heading straight past the landmarks,15
+457,don't stay on the direct route without deviation,15
+458,avoid moving straightforwardly through the countryside,15
+459,don't go straight towards the mountain,15
+460,stray from keeping on the straight and narrow path,15
+461,avoid following the straight line on the horizon,15
+462,refrain from heading directly to the coastline,15
+463,don't stay on the straight highway,15
+464,avoid moving in a straight line through the desert,15
+465,refrain from continuing straight across the plains,15
+466,don't go ahead without turning in any direction,15
+467,stray from keeping to the unswerving trail,15
+468,avoid proceeding straight along the beach,15
+469,don't head straight through the canyon,15
+470,refrain from staying true to the straight street,15
+471,avoid moving directly through the valley,15
+472,don't go straight under the clear sky,15
+473,stray from keeping on the straight course through the forest,15
+474,refrain from following the unbroken line on the map,15
+475,avoid maintaining your course straight ahead,15
+476,don't move directly along the river,15
+477,stray from continuing straight across the meadow,15
+478,avoid heading straight through the wilderness,15
+479,refrain from staying on the direct path to your destination,15
+480,don't go straight along the seashore,15
+481,stray from proceeding straightforwardly through the hills,15
+482,avoid moving forward without detours,15
+483,refrain from following the straight track through the city,15
+484,don't head straight past the fields,15
+485,avoid staying on the straight road through the countryside,15
+486,stray from moving directly along the railway tracks,15
+487,refrain from going straight to your final destination,15
+488,avoid retreating,16
+489,refrain from moving rearward,16
+490,don't go in reverse,16
+491,resist backtracking,16
+492,avoid reversing your direction,16
+493,stay where you are,16
+494,don't step back,16
+495,avoid regressing,16
+496,refrain from moving in a backward motion,16
+497,resist taking a step back,16
+498,avoid going backward,16
+499,stay in your current position,16
+500,don't reverse course,16
+501,refrain from retreating backward,16
+502,avoid moving away from the front,16
+503,don't move in the opposite direction,16
+504,resist stepping in reverse,16
+505,refrain from withdrawal,16
+506,avoid moving towards the rear,16
+507,don't back away,16
+508,resist going in a backward trajectory,16
+509,avoid moving back from your current position,16
+510,don't go rearward,16
+511,stay where you are or move forward,16
+512,resist falling back,16
+513,avoid retracing your steps,16
+514,don't move towards the back,16
+515,refrain from drawing back,16
+516,stay in your current position or move forward,16
+517,don't move back along the path,16
+518,avoid stepping away from the forward direction,16
+519,resist reversing your movement,16
+520,refrain from retreating from the current position,16
+521,don't go back,16
+522,stay in your current position or shift forward,16
+523,avoid moving to the back,16
+524,don't pull back,16
+525,refrain from moving in the opposite direction from the front,16
+526,avoid retreating to a previous location,16
+527,don't step in the opposite direction,16
+528,resist moving in a rearward motion,16
+529,avoid withdrawing from the front,16
+530,stay where you are or fall behind,16
+531,don't take steps backward,16
+532,resist going in the reverse direction,16
+533,refrain from retreating from the current point,16
+534,don't step back from the current position,16
+535,avoid moving toward the rear,16
+536,stay in your current position or shift away from the front,16
+537,don't go in a backward trajectory,16
+538,resist withdrawing yourself,16
+539,avoid taking a step away from the forward direction,16
+540,refrain from moving in the opposite path,16
+541,avoid retreating along the path,16
+542,don't step back from the current location,16
+543,resist going back from the current point,16
+544,refrain from moving in a rearward direction,16
+545,avoid drawing away from the front,16
+546,stay where you are or step backward on the path,16
+547,avoid retreating to a preceding point,16
+548,don't move away from the forward trajectory,16
+549,resist going in the opposite way,16
+550,avoid retreating to a previous spot,16
+551,don't move in the direction opposite to forward,16
+552,stay in your current position or fall back from the current position,16
+553,refrain from withdrawing to a prior location,16
+554,avoid taking steps in a backward motion,16
+555,don't move in the reverse trajectory,16
+556,resist stepping back to a previous spot,16
+557,avoid going away from the front,16
+558,stay in your current position or retreat from the current spot,16
+559,don't move in a rearward trajectory,16
+560,resist retreating along the route,16
+561,avoid shifting backward from the current location,16
+562,don't step away from the forward trajectory,16
+563,avoid moving in the opposite course,16
+564,stay in your current position or withdraw to a preceding point,16
+565,don't go back from the current place,16
+566,resist retreating to a former location,16
+567,avoid moving in a backward path,16
+568,stay in your present position or step back from the present position,16
+569,don't go in the reverse course,16
+570,avoid moving to the rear from the current point,16
+571,stay in your current position or retreat from the current spot,16
+572,refrain from withdrawing to a prior spot,16
+573,don't take steps in the reverse direction,16
+574,resist moving away from the front direction,16
+575,avoid retreating along the route taken,16
+576,stay where you are or step backward on the path traveled,16
+577,avoid going back to a previous point,16
+578,don't move in a rearward motion,16
+579,stay in your current position or retreat to a former point,16
+580,resist falling back from the present position,16
+581,avoid withdrawing to a preceding spot,16
+582,don't take steps in the reverse direction,16
+583,refrain from moving in the opposite way from forward,16
+584,avoid retreating along the course traveled,16
+585,stay in your current position or step back to a former spot,16
+586,don't go away from the forward trajectory,16
+587,avoid moving in the reverse path,16
+588,avoid shifting to the left,17
+589,refrain from veering toward the left side,17
+590,don't glide leftward,17
+591,steer away from a leftward direction,17
+592,resist moving your position to the left,17
+593,stay clear of a leftward motion,17
+594,avoid sliding to the left,17
+595,don't lean to the left,17
+596,resist adjusting your course to the left,17
+597,avoid veering left,17
+598,refrain from maneuvering towards the left,17
+599,don't tilt left,17
+600,avoid directing yourself to the left,17
+601,resist shifting horizontally to the left,17
+602,abstain from adjusting your alignment to the left,17
+603,avoid turning leftward,17
+604,refrain from guiding your movement to the left,17
+605,do not head left,17
+606,stay away from navigating to the left side,17
+607,avoid offsetting your position to the left,17
+608,refrain from progressing towards the left,17
+609,don't veer off to the left,17
+610,avoid aligning yourself to the left,17
+611,don't lean in a leftward direction,17
+612,resist steering left,17
+613,avoid progressing leftward,17
+614,glide away from the left side,17
+615,don't maneuver left,17
+616,avoid shifting laterally to the left,17
+617,refrain from adjusting your heading to the left,17
+618,don't tilt in a leftward manner,17
+619,avoid turning in the left direction,17
+620,refrain from directing your movement to the left,17
+621,avoid moving horizontally to the left,17
+622,slide away from the leftward direction,17
+623,don't guide yourself to the left,17
+624,resist offsetting to the left side,17
+625,don't veer your trajectory leftward,17
+626,avoid shifting towards the left side,17
+627,refrain from leaning left,17
+628,resist adjusting your position to the left,17
+629,stay away from navigating leftward,17
+630,don't maneuver in a leftward direction,17
+631,avoid heading in a leftward trajectory,17
+632,glide away from progressing in a leftward motion,17
+633,resist turning towards the left side,17
+634,don't steer in a leftward manner,17
+635,avoid moving leftward on the path,17
+636,refrain from tilting to the left side,17
+637,avoid shifting your course to the left,17
+638,slide away from the left side laterally,17
+639,don't veer your trajectory leftward,17
+640,avoid guiding your movement to the left side,17
+641,resist leaning in a leftward direction,17
+642,abstain from adjusting your heading leftward,17
+643,don't turn in the direction of the left,17
+644,avoid progressing in a leftward trajectory,17
+645,maneuver away from moving left on the path,17
+646,refrain from shifting your alignment to the left,17
+647,glide away from navigating towards the left,17
+648,avoid moving in a leftward motion on the path,17
+649,don't steer toward the left side,17
+650,resist veering your course leftward,17
+651,avoid adjusting your position in a leftward manner,17
+652,don't lean towards the left side,17
+653,slide away from heading left on the route,17
+654,avoid progressing in the direction of the left,17
+655,refrain from turning left on the route,17
+656,avoid steering your movement to the left,17
+657,glide away from moving leftward on the path,17
+658,resist shifting your trajectory to the left side,17
+659,stay clear of navigating towards the left,17
+660,don't maneuver in a leftward direction on your course,17
+661,avoid moving left on your route,17
+662,refrain from veering towards the left side,17
+663,avoid adjusting your heading in a leftward manner,17
+664,don't lean left on the path,17
+665,resist turning in the leftward direction,17
+666,avoid guiding your movement leftward,17
+667,slide away from moving left on your route,17
+668,stay clear of heading towards the left side,17
+669,refrain from tilting your position to the left,17
+670,avoid progressing in a leftward trajectory on the path,17
+671,don't steer towards the left side,17
+672,glide away from shifting on the straight route,17
+673,maneuver away from progressing towards the left,17
+674,avoid moving in a leftward motion on the route,17
+675,don't veer towards the left side of the path,17
+676,refrain from gliding to the left on the route,17
+677,avoid navigating in the direction of the left,17
+678,maneuver away from moving leftward on the course,17
+679,resist turning towards the left side,17
+680,don't adjust your movement leftward,17
+681,slide away from leaning left on the route,17
+682,avoid heading towards the left side,17
+683,refrain from tilting towards the leftward direction,17
+684,avoid progressing in a leftward trajectory on the path,17
+685,don't steer towards the left side of the route,17
+686,resist shifting laterally towards the left,17
+687,stay clear of veering your course leftward,17
+688,avoid shifting to the right,18
+689,refrain from veering toward the right side,18
+690,don't glide rightward,18
+691,steer away from a rightward direction,18
+692,resist moving your position to the right,18
+693,stay clear of a rightward motion,18
+694,avoid sliding to the right side,18
+695,don't lean to the right,18
+696,resist adjusting your course to the right,18
+697,avoid veering right,18
+698,refrain from maneuvering towards the right,18
+699,don't tilt right,18
+700,avoid directing yourself to the right,18
+701,resist shifting horizontally to the right,18
+702,abstain from adjusting your alignment to the right,18
+703,avoid turning rightward,18
+704,refrain from guiding your movement to the right,18
+705,do not head right,18
+706,stay away from navigating to the right side,18
+707,avoid offsetting your position to the right,18
+708,refrain from progressing towards the right,18
+709,don't veer off to the right,18
+710,avoid aligning yourself to the right,18
+711,don't lean in a rightward direction,18
+712,resist steering right,18
+713,avoid progressing rightward,18
+714,glide away from the right side,18
+715,don't maneuver right,18
+716,avoid shifting laterally to the right,18
+717,refrain from adjusting your heading to the right,18
+718,don't tilt in a rightward manner,18
+719,avoid turning in the right direction,18
+720,refrain from directing your movement to the right,18
+721,avoid moving horizontally to the right,18
+722,slide away from the rightward direction,18
+723,don't guide yourself to the right,18
+724,resist offsetting to the right side,18
+725,don't veer your trajectory rightward,18
+726,avoid shifting towards the right side,18
+727,refrain from leaning right,18
+728,resist adjusting your position to the right,18
+729,stay away from navigating rightward,18
+730,don't maneuver in a rightward direction,18
+731,avoid heading in a rightward trajectory,18
+732,glide away from progressing in a rightward motion,18
+733,resist turning towards the right side,18
+734,don't steer in a rightward manner,18
+735,avoid moving rightward on the path,18
+736,refrain from tilting to the right side,18
+737,avoid shifting your course to the right,18
+738,slide away from the right side laterally,18
+739,don't veer your trajectory rightward,18
+740,avoid guiding your movement to the right side,18
+741,resist leaning in a rightward direction,18
+742,abstain from adjusting your heading rightward,18
+743,don't turn in the direction of the right,18
+744,avoid progressing in a rightward trajectory,18
+745,maneuver away from moving right on the path,18
+746,refrain from shifting your alignment to the right,18
+747,glide away from navigating towards the right,18
+748,avoid moving in a rightward motion on the path,18
+749,don't steer toward the right side,18
+750,resist veering your course rightward,18
+751,avoid adjusting your position in a rightward manner,18
+752,don't lean towards the right side,18
+753,slide away from heading right on the route,18
+754,avoid progressing in the direction of the right,18
+755,refrain from turning right on the route,18
+756,avoid steering your movement to the right,18
+757,glide away from moving rightward on the path,18
+758,resist shifting your trajectory to the right side,18
+759,stay clear of navigating towards the right,18
+760,don't maneuver in a rightward direction on your course,18
+761,avoid moving right on your route,18
+762,refrain from veering towards the right side,18
+763,avoid adjusting your heading in a rightward manner,18
+764,don't lean right on the path,18
+765,resist turning in the rightward direction,18
+766,avoid guiding your movement rightward,18
+767,slide away from moving right on your route,18
+768,stay clear of heading towards the right side,18
+769,refrain from tilting your position to the right,18
+770,avoid progressing in a rightward trajectory on the path,18
+771,don't steer towards the right side,18
+772,glide away from shifting on the straight route,18
+773,maneuver away from progressing towards the right,18
+774,avoid moving in a rightward motion on the route,18
+775,don't veer towards the right side of the path,18
+776,refrain from gliding to the right on the route,18
+777,avoid navigating in the direction of the right,18
+778,maneuver away from moving rightward on the course,18
+779,resist turning towards the right side,18
+780,don't adjust your movement rightward,18
+781,slide away from leaning right on the route,18
+782,avoid heading towards the right side,18
+783,refrain from tilting towards the rightward direction,18
+784,avoid progressing in a rightward trajectory on the path,18
+785,don't steer towards the right side of the route,18
+786,resist shifting laterally towards the right,18
+787,stay clear of veering your course rightward,18
+788,go farward,1
+789,move back,2
+790,turn to the left,5
+791,head right,6
+792,accelerate,8
+793,decelerate,9
+794,activate lights,12
+795,deactivate lights,13
+796,activate,1
+797,deactivate,2
+798,on the wheel chair,1
+799,on,1
+800,start,1
+801,strat the wheel chair,1
+802,start the chair,1
+803,just start,1
+804,activate,1
+805,power up,1
+806,wake up,1
+807,enable,1
+808,start moving the wheelchair forward,3
+809,start moving,3
+810,move the wheelchair forward,3
+811,roll the wheelchair forward,3
+812,drive the wheelchair forward,3
+813,initiate the wheelchair,3
+814,engage the wheelchair,3
+815,enable the wheelchair,3
+816,initiate wheelchair movement,3
+817,activate the motors,1
+818,confirm to start,1
+819,power on,1
+820,bring to a start,1
+821,go farward,1
+822,move front,1
+823,start move forward,1
+824,start move backward,1
+825,machine off,3
+826,go inside,3
+827,establisment system,3
+828,bring to a halt,4
+829,discontinue,2
+830,de energize,1
+831,finish,1
+832,hold,1
+833,stand still,2
+834,power off now,2
+835,disable navigation,2
+836,bring to a stop,2
+837,disengage,2
+838,zero motion,2
+839,neutral,2
+840,suspend,2
+841,rest,2
+842,turn inactive,2
+843,park,2
+844,complete stop,2
+845,switch off the wheelchair,2
+846,switch off,2
+847,power down,2
+848,pause   resume,2
+849,emergency stop,2
+850,stop,2
+851,turn off,2
+852,stop the wheelchair,2
+853,shutdown,2
+854,off,2
+855,power saving mode,2
+856,confirm shutdown,2
+857,stop at the place,2
+858,sleep,2
+859,lock position,2
+860,disable the drive,2
+861,deactivate the motors,2
+862,move forward,2
+863,accelerate,2
+864,turn to the right,2
+865,decelerate,2
+866,activate lights,13
+867,turn left,6
+868,stop,8
+869,turn on lights,13
+870,go backward,5
+871,power up,1
+872,turn off lights,14
+873,start the car,1
+874,turn right,7
+875,slow down,10
+876,activate,1
+877,deactivate,3
+878,on the wheel chair,1
+879,on,1
+880,start,1
+881,strat the wheel chair,1
+882,start the chair,1
+883,just start,1
+884,enable,1
+885,power on,1
+886,bring to a start,1
+887,go farward,4
+888,move front,4
+889,start move forward,4
+890,start move backward,5
+891,discontinue,3
+892,de energize,3
+893,finish,3
+894,hold,3
+895,stand still,3
+896,power off now,3
+897,disable navigation,3
+898,bring to a stop,3
+899,disengage,3
+900,neutral,3
+901,suspend,3
+902,rest,3
+903,turn inactive,3
+904,park,3
+905,complete stop,3
+906,switch off the wheelchair,3
+907,switch off,3
+908,power down,3
+909,pause   resume,3
+910,emergency stop,3
+911,stop,3
+912,turn off,3
+913,stop the wheelchair,3
+914,shutdown,3
+915,off,3
+916,power saving mode,3
+917,confirm shutdown,3
+918,stop at the place,3
+919,sleep,3
+920,lock position,3
+921,disable the drive,3
+922,deactivate the motors,3
+923,proceed forward,4
+924,move ahead,4
+925,drive onward,4
+926,continue straight,4
+927,keep going forward,4
+928,move in reverse,5
+929,drive back,5
+930,take a left,6
+931,bear left,6
+932,turn to the left side,6
+933,make a left turn,6
+934,take a right,7
+935,bear right,7
+936,turn to the right side,7
+937,make a right turn,7
+938,brake,8
+939,pull over,8
+940,go faster,9
+941,increase speed,9
+942,reduce speed,10
+943,decelerate,10
+944,slow down,10
+945,go slower,10
+946,activate lights,13
+947,turn on the lights,13
+948,switch on the headlights,13
+949,light up the road,13
+950,deactivate lights,14
+951,move the wheelchair forward,4
+952,maintain the current direction of the wheelchair,4
+953,move the wheelchair forward,4
+954,move the wheelchair backward,5
+955,turn the wheelchair left,6
+956,turn the wheelchair right,7
+957,stop the wheelchair completely,8
+958,stop the wheelchair,8
+959,stop the wheelchair and move to the side,8
+960,increase the speed of the wheelchair,9
+961,decrease the speed of the wheelchair,10
+962,turn on the headlights,13
+963,turn off the headlights,14
+964,turn around,14
+965,turn slightly left,11
+966,turn slightly right,12
+967,tilt forward,4
+968,tilt backward,5
+969,lock wheels,8
+970,unlock wheels,1
+971,pause,8
+972,resume,8
+973,rotate the wheelchair 180 degrees,14
+974,engage the brakes to prevent movement,8
+975,release the brakes to allow movement,4
