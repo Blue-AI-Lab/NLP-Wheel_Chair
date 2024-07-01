@@ -1,16 +1,11 @@
 import pickle
-from tensorflow.keras.preprocessing.sequence import pad_sequences
+import numpy as np
+# from tensorflow.keras.preprocessing.sequence import pad_sequences
+from preprocess import clean,token_txt
 
 
-token = pickle.load(open('tokenizer.pkl','rb'))
-
-def preprocessing(text):
-  x = text
-  token.fit_on_texts(x)
-  sequences = token.texts_to_sequences(x)
-  x = pad_sequences(sequences ,maxlen=12)
-  return x
-
+with open('model.pkl', 'rb') as handle:
+    model = pickle.load(handle)
 
 label = {
 1:'on',
@@ -30,11 +25,18 @@ label = {
 15:'don’t_forward',
 16:'don’t_back',
 17:'don’t_left',
-18:'don’t_right'
+18:'don’t_right',
+19:'go to somewear'
 }
 
 # print(token.word_index)
+text = "Approach the coe block"
+word = clean(text)
 
-word = preprocessing("approach the coe block")
 
-print(word)
+token = token_txt([word])
+
+
+output = model.predict(token)
+
+print(output)
